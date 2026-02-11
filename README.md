@@ -52,7 +52,7 @@ Random Forest typically performs better due to its ensemble nature.
 How to Run This Project 
 
 Clone the repository 
-git clone https://github.com/your-username/Bankruptcy-Prediction.git 
+git clone https://github.com/RAMACHARAN-GIT/Bankruptcy-Prediction-Using-Machine-Learning-Credit-Risk-Modeling-/tree/main
 cd Bankruptcy-Prediction 
 
 Install dependencies 
